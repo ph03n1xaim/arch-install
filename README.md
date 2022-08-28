@@ -10,7 +10,7 @@ Unmanned Arch Installer Drones from Future!
 
 ## Installation
 
-- Fetch script from git:
+- Fetch script from git into live installer usb:
 ```bash
 git clone https://github.com/phoenixofilankara/arch-install.git
 ```
